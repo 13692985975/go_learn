@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// zhsehi djakdfklj
 func main() {
 	fmt.Println("Hello World6666664545466666")
 	maind()
